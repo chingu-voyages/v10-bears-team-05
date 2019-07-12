@@ -1,2 +1,2 @@
 # v10-bears-team-05
-Add-project-description-here | Voyage-10 | https://chingu.io/
+WOW Talen Calculator, Client & Server | Voyage-10 | https://chingu.io/
